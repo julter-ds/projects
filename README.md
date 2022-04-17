@@ -14,3 +14,4 @@ The course is providing following skills and knowledge:
 | Project | Description | Libraries used |
 | :---------------------- | :---------------------- | :---------------------- |
 | [<b>Statistical analysis</b>](https://github.com/julter-ds/practicum-projects/blob/main/Statistical%20analysis/Statistical_analysis.ipynb) | Defining the most efficient plan for the mobile network operator| *pandas, numpy, scipy* |
+| [<b>Supervised learning</b>](https://github.com/julter-ds/practicum-projects/blob/main/Supervised%20learning/Supervised_learning.ipynb) | Predicting customer behavior| *pandas, numpy, scikit-learn, matplotlib* |
